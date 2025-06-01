@@ -1,3 +1,4 @@
+-----------------{Made By Alba}-----------------------
 local effectActive = false            -- Blur screen effect active
 local blackOutActive = false          -- Blackout effect active
 local currAccidentLevel = 0           -- Level of accident player has effect active of
@@ -160,3 +161,4 @@ Citizen.CreateThread(function()
 		end
 	end
 end)
+-----------------{Made By Alba}-----------------------

@@ -1,6 +1,4 @@
-shared_script '@fiveguard/ai_module_fg-obfuscated.lua'
-shared_script '@ace-wateroverlast/ai_module_fg-obfuscated.lua'
-shared_script '@es_extended/client/mla.lua'
+-----------------{Made By Alba}-----------------------
 fx_version 'adamant'
 
 game 'gta5'
@@ -13,3 +11,4 @@ client_scripts {
   'config.lua',
   'client.lua'
 }
+-----------------{Made By Alba}-----------------------

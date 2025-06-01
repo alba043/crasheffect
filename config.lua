@@ -1,3 +1,4 @@
+-----------------{Made By Alba}-----------------------
 Config = {}
 
 -- Amount of Time to Blackout, in milliseconds
@@ -38,3 +39,4 @@ Config.TimeLeftToEnableControls = 10
 
 -- Multiplier of screen shaking strength
 Config.ScreenShakeMultiplier = 0.08
+-----------------{Made By Alba}-----------------------
